@@ -1,3 +1,3 @@
 send-mail
 =========
-this is a program for sendind mail through smtp
+this is a program for sending mail through smtp
